@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/release/LuckyCubeX/lucky/all.svg?style=flat-square">
   </a>
   <a href="https://github.com/LuckyCubeX/lucky">
-    <img src="https://img.shields.io/badge/release-Alpha-00b4f0?style=flat-square">
+    <img src="https://img.shields.io/badge/release-Alpha-ff0000?style=flat-square">
   </a>
 </p>
 
