@@ -1,20 +1,20 @@
 <h1 align="center">
-  <img src="Meta.png" alt="Meta Kennel" width="200">
-  <br>Meta Kernel<br>
+  <img src="Lucky.png" alt="Lucky Core" width="200">
+  <br>Lucky Core<br>
 </h1>
 
-<h3 align="center">Another Clash Kernel.</h3>
+<h3 align="center">A network tool that brings you good luck!</h3>
 
 <p align="center">
-  <a href="https://goreportcard.com/report/github.com/Clash-Mini/Clash.Meta">
-    <img src="https://goreportcard.com/badge/github.com/Clash-Mini/Clash.Meta?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/LuckyCubeX/lucky">
+    <img src="https://goreportcard.com/badge/github.com/LuckyCubeX/lucky?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/go-mod/go-version/Dreamacro/clash?style=flat-square">
-  <a href="https://github.com/Clash-Mini/Clash.Meta/releases">
-    <img src="https://img.shields.io/github/release/Clash-Mini/Clash.Meta/all.svg?style=flat-square">
+  <img src="https://img.shields.io/github/go-mod/go-version/LuckyCubeX/lucky?style=flat-square">
+  <a href="https://github.com/LuckyCubeX/lucky/releases">
+    <img src="https://img.shields.io/github/release/LuckyCubeX/lucky/all.svg?style=flat-square">
   </a>
-  <a href="https://github.com/Clash-Mini/Clash.Meta">
-    <img src="https://img.shields.io/badge/release-Meta-00b4f0?style=flat-square">
+  <a href="https://github.com/LuckyCubeX/lucky">
+    <img src="https://img.shields.io/badge/release-Alpha-ff0000?style=flat-square">
   </a>
 </p>
 
@@ -32,15 +32,17 @@
 
 ## Dashboard
 
-A web dashboard with first-class support for this project has been created; it can be checked out at [metacubexd](https://github.com/MetaCubeX/metacubexd).
+The dashboard is under development...
+
+<!--A web dashboard with first-class support for this project has been created; it can be checked out at [metacubexd](https://github.com/MetaCubeX/metacubexd).-->
 
 ## Configration example
 
-Configuration example is located at [/docs/config.yaml](https://github.com/MetaCubeX/Clash.Meta/blob/Alpha/docs/config.yaml).
+Configuration example is located at [/docs/config.yaml](https://github.com/LuckyCubeX/lucky/blob/Alpha/docs/config.yaml).
 
 ## Docs
 
-Documentation can be found in [Clash.Meta Docs](https://clash-meta.wiki).
+Documentation can be found in [Lucky Core Docs](https://luckycubex.github.io/lucky/docs).
 
 ## For development
 
@@ -50,7 +52,7 @@ Requirements:
 Build Clash.Meta:
 
 ```shell
-git clone https://github.com/MetaCubeX/Clash.Meta.git
+git clone https://github.com/LuckyCubeX/lucky.git
 cd Clash.Meta && go mod download
 go build
 ```
@@ -82,12 +84,13 @@ iptables:
 
 ## Debugging
 
-Check [wiki](https://wiki.metacubex.one/api/#debug) to get an instruction on using debug
+Check [wiki](https://luckycubex.github.io/lucky/docs) to get an instruction on using debug
 API.
 
 ## Credits
 
 - [Dreamacro/clash](https://github.com/Dreamacro/clash)
+- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta)
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
 - [riobard/go-shadowsocks2](https://github.com/riobard/go-shadowsocks2)
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)
@@ -97,5 +100,3 @@ API.
 ## License
 
 This software is released under the GPL-3.0 license.
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_large)
