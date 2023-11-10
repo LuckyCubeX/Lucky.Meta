@@ -32,15 +32,17 @@
 
 ## Dashboard
 
-A web dashboard with first-class support for this project has been created; it can be checked out at [metacubexd](https://github.com/MetaCubeX/metacubexd).
+The dashboard is under development...
+
+<!--A web dashboard with first-class support for this project has been created; it can be checked out at [metacubexd](https://github.com/MetaCubeX/metacubexd).-->
 
 ## Configration example
 
-Configuration example is located at [/docs/config.yaml](https://github.com/MetaCubeX/Clash.Meta/blob/Alpha/docs/config.yaml).
+Configuration example is located at [/docs/config.yaml](https://github.com/LuckyCubeX/lucky/blob/Alpha/docs/config.yaml).
 
 ## Docs
 
-Documentation can be found in [Clash.Meta Docs](https://clash-meta.wiki).
+Documentation can be found in [Lucky Core Docs](https://luckycubex.github.io/lucky/docs).
 
 ## For development
 
@@ -50,7 +52,7 @@ Requirements:
 Build Clash.Meta:
 
 ```shell
-git clone https://github.com/MetaCubeX/Clash.Meta.git
+git clone https://github.com/LuckyCubeX/lucky.git
 cd Clash.Meta && go mod download
 go build
 ```
@@ -82,12 +84,13 @@ iptables:
 
 ## Debugging
 
-Check [wiki](https://wiki.metacubex.one/api/#debug) to get an instruction on using debug
+Check [wiki](https://luckycubex.github.io/lucky/docs) to get an instruction on using debug
 API.
 
 ## Credits
 
 - [Dreamacro/clash](https://github.com/Dreamacro/clash)
+- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta)
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
 - [riobard/go-shadowsocks2](https://github.com/riobard/go-shadowsocks2)
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)
